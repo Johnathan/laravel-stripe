@@ -50,7 +50,7 @@ class StripeFactory
             }
         }
 
-        return array_only($config, ['key']);
+        return \Arr::only($config, ['key']);
     }
 
     /**

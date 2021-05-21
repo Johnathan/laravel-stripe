@@ -1,5 +1,5 @@
 {
-    "name": "johnathan/stripe",
+    "name": "johnathan/laravel-stripe",
     "description": "A Stripe bridge for Laravel",
     "keywords": [
         "laravel",
